@@ -10,12 +10,6 @@ header{
     color: white;
 }
 
-footer{
-    height: 80px;
-    background-color:rgb(30, 30, 33);
-    color: white;
-}
-
 main{
     height: 80px;
     background-color:cornflowerblue;
@@ -23,3 +17,11 @@ main{
     padding: 5px 0 0 15px;
     color: #fff;
     }
+
+footer{
+    height: 80px;
+    background-color:rgb(30, 30, 33);
+    color: white;
+    margin-top: 10px;
+}
+
