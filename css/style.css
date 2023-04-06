@@ -9,3 +9,11 @@ header{
     background-color: tomato;
     color: white;
 }
+
+main{
+    height: 80px;
+    background-color:cornflowerblue;
+    margin-top: 10px;
+    padding: 5px 0 0 15px;
+    color: #fff;
+    }
