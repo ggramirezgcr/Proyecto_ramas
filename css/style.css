@@ -12,7 +12,7 @@ header{
 
 main{
     height: 80px;
-    background-color:cornflowerblue;
+    background-color:rgb(237, 100, 141);
     margin-top: 10px;
     padding: 5px 0 0 15px;
     color: #fff;
@@ -23,5 +23,6 @@ footer{
     background-color:rgb(30, 30, 33);
     color: white;
     margin-top: 10px;
+    
 }
 
